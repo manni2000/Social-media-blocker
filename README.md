@@ -1,5 +1,5 @@
 # Social_media blocker
-<b>Chrome extension that blocks distracting websites and helps users stay focused.</b>
+<b>Chrome extension that blocks distracting websites and helps users stay focused.</b><br>
  
 <h1>📝 Contribute<br></h1>
 This repo is open to contribution and modifications,<br>
